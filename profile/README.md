@@ -7,10 +7,9 @@ AIResearch-Group is an open research group dedicated to developing simple, effec
 Our current research interests include:
 
 - Multimodal learning and representation learning
-- Transfer learning and learning with limited supervision
 - Large language models and post-training
+- Transfer learning and learning with limited supervision
 - Trustworthy and secure AI
-- Model watermarking and intellectual property protection
 
 We value research that is:
 
@@ -19,4 +18,4 @@ We value research that is:
 - **Generalizable** — methods can be applied across models and tasks
 - **Practical** — solutions are reproducible and friendly to real-world deployment
 
-Through rigorous research and high-quality open-source projects, we hope to contribute useful ideas and tools that help move AI forward.
+Through rigorous research and high-quality open-source projects, **we hope to contribute useful ideas and tools that help move AI forward!**
