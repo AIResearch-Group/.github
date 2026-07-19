@@ -8,6 +8,10 @@
 
 AIResearch-Group is an open research group dedicated to developing **simple, effective, and broadly applicable AI methods**.
 
+<p align="center">
+  <strong>A small but effective idea can move AI forward</strong>
+</p>
+
 We believe that meaningful advances in AI do not always require increasingly complicated architectures or the accumulation of numerous modules and tricks. Instead, we aim to identify essential research problems and address them with **concise, principled, and effective solutions**.
 
 Our current research interests include:
@@ -25,5 +29,3 @@ We value research that is:
 - **Practical** — solutions are reproducible and suitable for real-world deployment
 
 Through rigorous research and high-quality open-source projects, we hope to contribute useful ideas and tools that help move AI forward.
-
-**A small but effective idea can move AI forward.**
