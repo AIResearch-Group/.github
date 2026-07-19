@@ -26,4 +26,4 @@ We value research that is:
 
 Through rigorous research and high-quality open-source projects, we hope to contribute useful ideas and tools that help move AI forward.
 
-> **A small but effective idea can move AI forward.**
+**A small but effective idea can move AI forward.**
