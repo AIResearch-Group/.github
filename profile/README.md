@@ -1,6 +1,6 @@
 # Advancing AI through simple and effective methods
 
-AIResearch-Group is an open research group dedicated to developing simple, effective, and broadly applicable artificial intelligence methods.
+AIResearch-Group is an open research group dedicated to developing simple, effective, and broadly applicable AI methods.
 
 **We believe that meaningful advances in AI do not always require increasingly complicated architectures or the accumulation of numerous modules and tricks. Instead, we aim to identify essential research problems and address them with concise, principled, and effective solutions.**
 
